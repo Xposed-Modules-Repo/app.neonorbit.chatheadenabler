@@ -19,7 +19,7 @@ Installation
 
 Support
 -------
-Help: [XDA-Thread](https://forum.xda-developers.com/t/xposed-mod-enable-messenger-chat-head-on-android-11-devices.4305391)  
+Help: [XDA-Thread](https://forum.xda-developers.com/t/4305391)  
 Source: [Github-Repo](https://github.com/NeonOrbit/ChatHeadEnabler)  
   
 [![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/N3onOrbit)  

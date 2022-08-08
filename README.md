@@ -15,7 +15,7 @@ Installation
 - Clear Messenger app data.
 - Restart Messenger app.
 
-For Non-Rooted device, check this [Tutorial](https://forum.xda-developers.com/t/4331215)  
+For Non-Rooted device, Check this [Tutorial](https://forum.xda-developers.com/t/4331215)  
 
 Support
 -------

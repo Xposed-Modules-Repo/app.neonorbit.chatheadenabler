@@ -17,10 +17,10 @@ Features
 By default, this module enables the chat head feature.  
 In order to change it to bubble,
 - Open messenger app and go to its setting page.
-- Click on the drop-down <picture><img src="https://user-images.githubusercontent.com/66206913/193855064-55b5855d-d36e-451c-909b-8a86750a3477.png" height="18"/></picture> icon from the top-right corner.
+- Click on the toggle <picture><img src="https://user-images.githubusercontent.com/66206913/196724315-b7c87628-78f7-48c7-b8da-d1b8fc65ed34.png" height="14"/></picture> icon from the top-right corner.
 - Choose bubble option from the pop-up dialog.
 
-If you want to hide the drop-down icon, long press on it and remove.
+If you want to hide the toggle icon, long press on it and remove.
 
 Support
 -------
